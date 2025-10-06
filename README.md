@@ -1,6 +1,6 @@
 # Finance Tracker
 
-
+Web application for tracking personal finances.
 
 ## Tech Stack:
 
